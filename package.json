@@ -1,0 +1,29 @@
+{
+  "name": "px2rem-exclude",
+  "version": "0.0.3",
+  "description": "基于postcss-px2rem进行二次开发，增加第三方UI排除方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "postcss": "^5.0.0",
+    "px2rem": "~0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zjiaohuang/n22-postcss-px2rem.git"
+  },
+  "keywords": [
+    "n22",
+    "postcss",
+    "px2rem",
+    "exclude"
+  ],
+  "author": "zjm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjiaohuang/n22-postcss-px2rem/issues"
+  },
+  "homepage": "https://github.com/zjiaohuang/n22-postcss-px2rem"
+}
